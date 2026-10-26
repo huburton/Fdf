@@ -1,5 +1,7 @@
 # FdF — wireframe height maps
 
+*[Version française](README.fr.md)*
+
 Reads a grid of altitudes and draws it as an isometric wireframe landscape, in C with the MiniLibX
 (a small X11 graphics library). School 19 (42 network) project.
 
